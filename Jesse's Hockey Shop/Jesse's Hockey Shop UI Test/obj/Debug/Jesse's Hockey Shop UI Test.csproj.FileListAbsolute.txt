@@ -1,0 +1,5 @@
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop UI Test\bin\Debug\Jesse's Hockey Shop UI Test.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop UI Test\bin\Debug\Jesse's Hockey Shop UI Test.pdb
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop UI Test\obj\Debug\Jesse's Hockey Shop UI Test.csprojResolveAssemblyReference.cache
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop UI Test\obj\Debug\Jesse's Hockey Shop UI Test.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop UI Test\obj\Debug\Jesse's Hockey Shop UI Test.pdb

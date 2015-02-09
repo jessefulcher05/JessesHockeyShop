@@ -1,0 +1,211 @@
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\WingtipToys.dll.config
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Antlr3.Runtime.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Elmah.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Newtonsoft.Json.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\System.Web.Optimization.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\System.Web.Providers.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\WebGrease.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\System.Web.Optimization.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Antlr3.Runtime.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Newtonsoft.Json.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\System.Web.Providers.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\obj\Debug\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\obj\Debug\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\WingtipToys\obj\Debug\Jesse's Hockey Shop.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\WingtipToys.dll.config
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Antlr3.Runtime.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Elmah.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Newtonsoft.Json.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\System.Web.Optimization.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\System.Web.Providers.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\WebGrease.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\System.Web.Optimization.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Antlr3.Runtime.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Newtonsoft.Json.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\System.Web.Providers.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\obj\Debug\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\JessesHockeyShop\obj\Debug\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.dll.config
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Antlr3.Runtime.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Elmah.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.SqlServer.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Newtonsoft.Json.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Optimization.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Providers.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\WebGrease.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Optimization.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Antlr3.Runtime.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Newtonsoft.Json.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.SqlServer.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Providers.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\Jesse's Hockey Shop.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\WingtipToys.pdb
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.dll.config
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\WingtipToys.pdb
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Antlr3.Runtime.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\AspNet.ScriptManager.jQuery.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Elmah.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.SqlServer.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Web.Infrastructure.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Newtonsoft.Json.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Owin.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Optimization.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Providers.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\WebGrease.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Optimization.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Antlr3.Runtime.pdb
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Newtonsoft.Json.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\EntityFramework.SqlServer.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\System.Web.Providers.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Google.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\Jesse's Hockey Shop.csprojResolveAssemblyReference.cache
+G:\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\WingtipToys.dll
+G:\Jesse's Hockey Shop\JessesHockeyShop\obj\Debug\WingtipToys.pdb

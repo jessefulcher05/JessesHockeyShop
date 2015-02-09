@@ -1,0 +1,64 @@
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Jesse's Hockey Shop Unit Tests.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Jesse's Hockey Shop Unit Tests.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\WingtipToys.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\EntityFramework.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Owin.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Google.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\WingtipToys.pdb
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\EntityFramework.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Google.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.csprojResolveAssemblyReference.cache
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.dll
+C:\Users\Jesse\Desktop\Independent Study Final Project\C#\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.pdb
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.csprojResolveAssemblyReference.cache
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Jesse's Hockey Shop Unit Tests.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Jesse's Hockey Shop Unit Tests.pdb
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\WingtipToys.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\EntityFramework.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\System.Web.Optimization.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Owin.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Newtonsoft.Json.dll
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\WingtipToys.pdb
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\EntityFramework.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\System.Web.Optimization.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+G:\Jesse's Hockey Shop\Jesse's Hockey Shop Unit Tests\obj\Debug\Jesse's Hockey Shop Unit Tests.pdb
